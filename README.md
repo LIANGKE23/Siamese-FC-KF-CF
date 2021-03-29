@@ -84,6 +84,8 @@ Luka Bertinetto, Jack Valmadre.Fully Convolutional Siamese Networks for Object T
 
 Shiuh-Ku Weng, Chung-Ming Kuo, Shu-Kang Tu.Video object tracking using adaptive Kalman filter.2006
 
+P. R. Gunjal, B. R. Gunjal, H. A. Shinde, S. M. Vanam and S. S. Aher. Moving Object Tracking Using Kalman Filter. 2018
+
 Vishnu Naresh Boddeti, Vijayakumar Bhagavatula.Advances in correlation filters: vector features, structured prediction and shape alignment.2011
 
 David S. Bolme, J. Ross Beveridge Bruce, A. Draper Yui Man Lui.Visual Object Tracking using Adaptive Correlation Filters.2010
