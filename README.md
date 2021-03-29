@@ -1,4 +1,4 @@
-# SiamFC-KF-CF
+# SiamFC with Kalman Filter and Correlation Filter
 
 ## Ke LIANG, Lin LI, Yifei XIANG, Lindsey Schwartz 
 
